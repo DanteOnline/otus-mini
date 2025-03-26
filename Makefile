@@ -1,2 +1,2 @@
 run:
-	gunicorn  main:application
+	gunicorn  urls:application
